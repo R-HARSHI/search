@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-04T10:04:33 IST" name="Default suite" finished-at="2023-03-04T10:06:28 IST" duration-ms="115303">
+    <groups>
+    </groups>
+    <test started-at="2023-03-04T10:04:33 IST" name="Default test" finished-at="2023-03-04T10:06:28 IST" duration-ms="115303">
+      <class name="com.demo.PayBackSearch.SearchtestNG">
+        <test-method signature="Iwishto()[pri:0, instance:com.demo.PayBackSearch.SearchtestNG@6bd61f98]" started-at="2023-03-04T10:04:33 IST" name="Iwishto" finished-at="2023-03-04T10:04:40 IST" duration-ms="7294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Iwishto -->
+        <test-method signature="selectEarnPointsOption()[pri:1, instance:com.demo.PayBackSearch.SearchtestNG@6bd61f98]" started-at="2023-03-04T10:04:40 IST" name="selectEarnPointsOption" finished-at="2023-03-04T10:04:59 IST" duration-ms="18728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectEarnPointsOption -->
+        <test-method signature="clickSearchButton()[pri:2, instance:com.demo.PayBackSearch.SearchtestNG@6bd61f98]" started-at="2023-03-04T10:04:59 IST" name="clickSearchButton" finished-at="2023-03-04T10:05:25 IST" duration-ms="26115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickSearchButton -->
+        <test-method signature="checkbox()[pri:3, instance:com.demo.PayBackSearch.SearchtestNG@6bd61f98]" started-at="2023-03-04T10:05:25 IST" name="checkbox" finished-at="2023-03-04T10:06:02 IST" duration-ms="36469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbox -->
+        <test-method signature="sorting()[pri:4, instance:com.demo.PayBackSearch.SearchtestNG@6bd61f98]" started-at="2023-03-04T10:06:02 IST" name="sorting" finished-at="2023-03-04T10:06:28 IST" duration-ms="26640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sorting -->
+      </class> <!-- com.demo.PayBackSearch.SearchtestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
